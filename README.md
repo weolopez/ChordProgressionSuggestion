@@ -24,7 +24,7 @@ Originally planned as a conversion of Magenta's Harmonizer model to a web-based 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ChordProgressionSuggestion.git
+   git clone https://github.com/ChordProgressionSuggestion/ChordProgressionSuggestion.git
    ```
 
 2. Open the web interface:
