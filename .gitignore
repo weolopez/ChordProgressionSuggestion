@@ -1,0 +1,25 @@
+# Python environment
+venv/
+env/
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model files
+model_data/
+output/
+onnx_models/
+*.onnx
+*.pb
+*.tar.gz
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
